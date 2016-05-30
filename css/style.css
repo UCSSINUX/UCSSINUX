@@ -602,8 +602,9 @@ About
 }
 .member-photo img {
 	-webkit-border-radius:50%;
-		-moz-border-radius:50%;
-			border-radius:50%;	
+	-moz-border-radius:50%;
+	border-radius:50%;
+	height: 200px;
 }
 
 .team-detail h4 {
